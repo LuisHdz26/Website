@@ -2,6 +2,4 @@
 
 archivo modificado
 
-nueva edicion readme branch
-
-actualizacion local
+edicion nueva desde branch main
