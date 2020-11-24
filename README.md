@@ -10,3 +10,6 @@ edicion nueva desde branch main
 archivo readme
 
  cambios nuevos para tags
+ 
+ ## Getting started
+ To get started with this project
